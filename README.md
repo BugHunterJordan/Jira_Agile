@@ -1,119 +1,112 @@
-🏈 Jira Agile Project - Fantasy Football Web App
+# 🏈 Jira Agile Project – Fantasy Football Web App
 
 This project demonstrates how I use Jira to plan, track, and test a web application using Agile/Scrum principles. I created this Jira project from scratch to showcase my understanding of epics, user stories, sprints, releases, and bug tracking in a realistic product development workflow.
 
-📌 Project Overview
+---
 
-Goal:
-Showcase real-world Agile project management and QA practices using Jira, modeled after a fantasy football web application.
+## 📌 Project Overview
 
-Tools & Methodology:
+**Goal:**
 
-Jira (Scrum project)
+Demonstrate real-world Agile project management and QA practices using Jira, modeled after a fantasy football web application.
 
-Agile / Scrum
+**Tools & Methodology:**
 
-User Stories & Acceptance Criteria
+- Jira (Scrum project)
+- Agile / Scrum
+- User stories and acceptance criteria
+- Sprint planning and release management
+- Bug tracking and QA documentation
 
-Sprint Planning & Release Management
+---
 
-Bug Tracking & QA Documentation
+## 🧱 Project Structure
 
-🧱 Project Structure
-Epics & Feature Areas
+### Epics and Feature Areas
 
 I created epics to represent major product areas:
 
-Roster Management
+- Roster Management
+- League Standings
+- Player Statistics
+- Achievements
+- League Navigation
 
-League Standings
+### User Stories and Tasks
 
-Player Statistics
+- Detailed user stories with clear, testable acceptance criteria
+- Stories broken down into realistic development subtasks
+- Labels used to categorize:
+  - Gameplay features
+  - League information
+  - User account functionality
 
-Achievements
+### Components and Releases
 
-League Navigation
+- Components configured to represent major UI modules:
+  - TeamRosterView
+  - LeagueStandingsBoard
+- All work linked to release versions to demonstrate incremental delivery
 
-User Stories & Tasks
+---
 
-Detailed user stories with clear, testable acceptance criteria
-
-Stories broken down into realistic development subtasks
-
-Labels used to categorize:
-
-Gameplay features
-
-League information
-
-User account functionality
-
-Components & Releases
-
-Components configured to represent major UI modules:
-
-TeamRosterView
-
-LeagueStandingsBoard
-
-All work linked to release versions to demonstrate incremental delivery
-
-🐞 Bug Tracking & QA
+## 🐞 Bug Tracking and QA
 
 Bugs are documented as a separate issue type and include:
 
-Steps to reproduce
-
-Expected vs. actual results
-
-Severity and priority levels
-
-Environment details (browser, OS, platform)
+- Clear steps to reproduce
+- Expected versus actual results
+- Severity and priority levels
+- Environment details (browser, OS, platform)
 
 Several bugs focus on business logic and data consistency, not just UI issues, including:
 
-Lineup submission allowed after deadline
-
-Roster state not updating without a manual refresh
+- Lineup submission allowed after deadline
+- Roster state not updating without a manual refresh
 
 This highlights a QA-first mindset and attention to real-world application behavior.
 
-🚀 Sprint Planning
-Sprint 1: Core Gameplay (2 Weeks)
+---
 
-Sprint Goal:
-Deliver a minimum playable experience where users can:
+## 🚀 Sprint Planning
 
-View their roster
+### Sprint 1 – Core Gameplay (2 Weeks)
 
-Add or drop players
+**Sprint Goal:**
 
-View league standings
+Deliver a minimum playable experience where a user can:
 
-This sprint aligns with Version 1.0: Core Gameplay, prioritizing foundational user flows before advanced features.
+- View their team roster
+- Add or drop players
+- View league standings
 
-🔁 Agile Practices Demonstrated
+This sprint aligns with **Version 1.0 – Core Gameplay**, prioritizing foundational user flows before advanced features.
 
-Backlog grooming and prioritization
+---
 
-Story point estimation
+## 🔁 Agile Practices Demonstrated
 
-Sprint planning with clear goals
+- Backlog grooming and prioritization
+- Story point estimation
+- Sprint planning with clear goals
+- Incremental release planning
+- QA-focused acceptance criteria and bug reporting
 
-Incremental release planning
+---
 
-QA-focused acceptance criteria and bug reporting
-
-✅ Why This Project Matters
+## ✅ Why This Project Matters
 
 This project reflects how I would operate on a real Agile development team, using Jira to:
 
-Plan and break down features
-
-Track sprint progress
-
-Identify and document bugs
-
-Ensure quality throughout the development lifecycle
+- Plan and break down features
+- Track sprint progress
+- Identify and document bugs
+- Ensure quality throughout the development lifecycle
 
 It is designed to demonstrate product thinking, Agile discipline, and QA awareness — not just task tracking.
+
+---
+
+## 📎 Notes
+
+This repository focuses on Agile planning, Jira workflow design, and QA documentation rather than application code. It serves as a portfolio project demonstrating professional Jira usage in a realistic product environment.
