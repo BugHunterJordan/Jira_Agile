@@ -1,4 +1,4 @@
-![Project Thumbnail](JiraThumbnail.jpeg)
+![Project Thumbnail](JiraThumbnail.png)
 
 # 🏈 Jira Agile Project – Fantasy Football Web App
 
