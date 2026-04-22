@@ -1,3 +1,5 @@
+![Project Thumbnail](JiraThumbnail.jpeg)
+
 # 🏈 Jira Agile Project – Fantasy Football Web App
 
 This project demonstrates how I use Jira to plan, track, and test a web application using Agile/Scrum principles. I created this Jira project from scratch to showcase my understanding of epics, user stories, sprints, releases, and bug tracking in a realistic product development workflow.
